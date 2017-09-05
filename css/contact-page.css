@@ -1,0 +1,40 @@
+/** contact form styles**/
+.form-container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 15px 0px;
+}
+
+.body {
+    font-family: 'Neucha', cursive;
+}
+
+
+/** end contact form styles **/
+
+/** start map container styles **/
+.map-container {
+    height: 450px;
+}
+/** end map container styles **/
+
+footer {
+    margin-top: 0px;
+}
+
+/** start bio column styles **/
+.about-container {
+    height: 400px;
+}
+.bio-section {
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+
+.selfie {
+    width: 100%;
+    height: 100%;
+}
+/** end bio column styles **/
+
